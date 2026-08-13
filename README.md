@@ -8,7 +8,8 @@ A free, filterable atlas of **156 micro-skills** for the Indian job market — h
 
 | Tab | Contents |
 |---|---|
-| **Skills** | 156 micro-skills across 11 clusters, filterable by cluster, AI exposure, time to job-ready, cost, the education you already have, and opportunity type (works abroad / freelance / high demand) |
+| **Skills** | 156 micro-skills across 11 clusters, each with a plain-English explanation of what the work actually is, who it suits, and a ten-dimension aptitude profile. Filterable by cluster, AI exposure, time to job-ready, cost, the education you already have, and opportunity type (works abroad / freelance / high demand) |
+| **Find my fit** | A 17-question aptitude and situation check that scores all 156 skills against your strengths, education, budget, timeline, working-conditions tolerance and appetite for risk, then returns your top ten paid roles, the cross-cutting foundations to build alongside them, and the ones blocked by exactly one thing. Runs entirely in the browser; nothing is transmitted |
 | **Pathways** | Seven staged routes — no degree, Class 10/12, graduate, engineering graduate in a soft IT market, overseas, women re-entering work, and rural/agricultural |
 | **Where to apply** | Verified job portals by segment, government channels, internships and apprenticeships with current stipends, freelance platforms with commission rates, gig platforms with realistic earnings, and free learning portals |
 | **Proving skill** | The four kinds of proof ranked by what employers believe, how to verify a course before paying, credentials worth the money, and credentials to avoid |
